@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1>Kyle Vogt</h1>
- <img src="https://www.linkedin.com/in/kyle-vogt" alt="LinkedIn" />
+ <img src="https://www.linkedin.com/in/kyle-vogt-174612102/" alt="LinkedIn" />
 <p><a href="mailto:kylevogt@lewisu.edu?subject=New Mail&body=Mail">Email Here</a></p>
 <p>Hello there, my name is Kyle. I have two yonger sisters, one attends Minnesota University, and the other is a Jr. in highschool. My dad owns
  vending business and my mom is a stay at home mom. I am currently going to school for cyber security. </p>
