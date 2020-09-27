@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>Kyle Vogt</title>
+<title>
 </head>
 <body>
 <h1>Kyle Vogt</h1>
