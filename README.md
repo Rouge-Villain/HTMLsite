@@ -1,8 +1,5 @@
 
 <html>
-<head>
-<title>
-</head>
 <body>
 <h1>Kyle Vogt</h1>
  <img src="https://www.linkedin.com/in/kyle-vogt-174612102/" alt="LinkedIn" />
