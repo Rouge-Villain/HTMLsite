@@ -1,4 +1,2 @@
 # Readme
-kyle vogt
-html site
-kylevogt@lewisu.edu
+My name is kyle vogt and this is my HTML site. Any questions or concersn contant me at kylevogt@lewisu.edu
